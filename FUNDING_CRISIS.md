@@ -14,3 +14,14 @@ Whatever your capacity allows will go entirely toward:
 2. Acquiring a stable, functional hardware device to replace my broken phone so I can keep my ongoing research and second paper alive.
 
 Thank you for standing by independent science, honoring the working class, and preserving the autonomy of this research during my family’s darkest hour.
+### 💖 Direct Emergency Support (International & Local Bank Transfer)
+
+While my official GitHub Sponsors application is under active queue review, you can directly prevent this research from halting and support my mother's urgent medical needs by transferring directly to my bank account: 
+
+* **Account Holder Name:** MAHMUDUL HASAN SHORON
+* **Bank Name:** Islami Bank Bangladesh PLC
+* **Branch:** Fulbaria Branch, Mymensingh, Bangladesh
+* **Account Number:** 20503030202118814
+* **Routing Number (9-Digit):** 125611029
+
+Your support, no matter the scale, directly ensures the protection of decentralized interdisciplinary science and provides a vital lifeline to an independent scientist navigating a profound familial emergency. Thank you.
