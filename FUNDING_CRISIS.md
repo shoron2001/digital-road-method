@@ -30,17 +30,17 @@ Thank you for standing by independent science, honoring the working class, and p
 
 While my official GitHub Sponsors application is under active queue review, you can directly prevent this research from halting and support my family's urgent survival by transferring directly to my bank account: 
 
-• **Account Holder Name:Mahmudul  Hasan Shoron 
+• Account Holder Name: Mahmudul  Hasan Shoron 
 
-• **Bank Name:Islami Bank Bangladesh PLC
+• Bank Name: Islami Bank Bangladesh PLC
 
-• **Branch:Fulbaria Branch, Mymensingh,Bangladesh
+• Branch: Fulbaria Branch, Mymensingh,Bangladesh
 
-• **Account Number:20503030202118814
+• Account Number: 20503030202118814
 
-• **Routing Number (9-Digit):125611029
+• Routing Number (9-Digit): 125611029
 
-• **SWIFT Code (International): IBBLBDDHXXX 
+• SWIFT Code (International):  IBBLBDDHXXX 
 
 Your support, no matter the scale, directly ensures the protection of decentralized interdisciplinary science and provides a vital lifeline to an independent scientist navigating a profound familial emergency. Thank you.
 <img width="4160" height="1952" alt="IMG_20260610_101447" src="https://github.com/user-attachments/assets/370dded8-9d21-407b-93a1-0e7e1abe2c32" />
