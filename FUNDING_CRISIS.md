@@ -1,7 +1,7 @@
 ### Independent Scientific Research & Financial Emergency Lifeline
 
 My name is Mahmudul Hasan Shoron. 
-I am an Independent Jurimetrics and Computational Linguistics Researcher from Bangladesh. I manage and fund my scientific work completely on my own, ensuring it remains non-aligned, open-source, and free from corporate greed or institutional bias. My framework, "The Digital Road Method," is fully archived on GitHub to remain a birthright for students worldwide rather than a commercial luxury. 
+ I am an Independent Jurimetrics and Computational Linguistics Researcher from Bangladesh. I manage and fund my scientific work completely on my own, ensuring it remains non-aligned, open-source, and free from corporate greed or institutional bias. My framework, "The Digital Road Method," is fully archived on GitHub to remain a birthright for students worldwide rather than a commercial luxury. 
 
 ### Professional Affiliations & Background
 
@@ -31,10 +31,15 @@ Thank you for standing by independent science, honoring the working class, and p
 While my official GitHub Sponsors application is under active queue review, you can directly prevent this research from halting and support my family's urgent survival by transferring directly to my bank account: 
 
 • **Account Holder Name:Mahmudul  Hasan Shoron 
+
 • **Bank Name:Islami Bank Bangladesh PLC
+
 • **Branch:Fulbaria Branch, Mymensingh,Bangladesh
+
 • **Account Number:20503030202118814
+
 • **Routing Number (9-Digit):125611029
+
 • **SWIFT Code (International): IBBLBDDHXXX 
 
 Your support, no matter the scale, directly ensures the protection of decentralized interdisciplinary science and provides a vital lifeline to an independent scientist navigating a profound familial emergency. Thank you.
