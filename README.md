@@ -4,6 +4,7 @@
 
 [](/url?sa=i&source=web&rct=j&url=Terms_of_Commercial_License.md&ved=2ahUKEwijlPDEhJWWAxWCkeEIHVMkGrQQg5wRegYIAAgTEAU&opi=89978449&cd&psig=AOvVaw3vyz5639K35V1prKEW0GyA&ust=1786416056272000)
 [](/url?sa=i&source=web&rct=j&url=%23&ved=2ahUKEwijlPDEhJWWAxWCkeEIHVMkGrQQg5wRegYIAAgTEAY&opi=89978449&cd&psig=AOvVaw3vyz5639K35V1prKEW0GyA&ust=1786416056272000) 
+* **`section4_matrix_simulation.py`**: Automates the Stratified Empirical Evaluation Framework defined in Section 4.3. It runs a full-corpus matrix simulation across all 114 Surahs to verify the 100% deterministic Modulo-9 convergence rate and check for zero spatial drift.
 
 Welcome to the official repository of the **Shamsun Nahar Global Computational Linguistics Architecture (SN-GCLA)**. This repository hosts the production-ready Python modules for **The Digital Road Method**, an engineered data matrix framework designed for high-efficiency text data compression, syntactic structural reduction, and automated document validation using **Modulo-9 Reduction** algorithms. 
 
