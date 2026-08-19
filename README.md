@@ -24,6 +24,7 @@ The engine consists of three decoupled, high-performance mathematical modules:
 3. **checksum_validator.py**: Generates automated algorithmic checksums to perform real-time verification of the document object architecture, ensuring zero data loss or unauthorized modifications.
 Add to Core Modules Section:
 4. section4_matrix_simulation.py: Implements the Core Cryptographic Defense Engine as defined in Section 4.4. This module executes objective syntax validation loops to eliminate subjective overfitting.
+5. **hybrid_crypto_validator.py**: Combines industry-standard SHA-256 collision resistance with the Section 4 Modulo-9 Invariant Matrix Checksum Engine to create a hybrid defense-in-depth model against advanced data-tampering attacks.
 ### 📚 Global Academic Papers & Registries
 
 Our methodology, datasets, and mathematical parameters are peer-archived and index-tracked across leading global scientific registries under our core research publication: 
