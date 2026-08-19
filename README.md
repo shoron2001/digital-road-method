@@ -22,7 +22,8 @@ The engine consists of three decoupled, high-performance mathematical modules:
 1. **root_extractor.py**: Extracts the core structural linguistic tokens, semantic syntax elements, and foundational components from raw text sequences.
 2. **matrix_builder.py**: Maps the extracted syntax elements into a structured multi-dimensional coordinate matrix, applying **Modulo-9 reduction techniques** to convert text strings into dense mathematical arrays.
 3. **checksum_validator.py**: Generates automated algorithmic checksums to perform real-time verification of the document object architecture, ensuring zero data loss or unauthorized modifications.
-
+Add to Core Modules Section:
+4. section4_matrix_simulation.py: Implements the Core Cryptographic Defense Engine as defined in Section 4.4. This module executes objective syntax validation loops to eliminate subjective overfitting.
 ### 📚 Global Academic Papers & Registries
 
 Our methodology, datasets, and mathematical parameters are peer-archived and index-tracked across leading global scientific registries under our core research publication: 
