@@ -58,8 +58,11 @@ For licensing procurement, API sandbox access, or to schedule a 10-minute techni
   * **✅ Member**, American Bar Association (ID: 06417189)
   * **✅ Secretary of Student Affairs**, Central Law College, Dhaka, Bangladesh
   * 
-* **📊 Organization:** Shamsun Nahar Global Computational Linguistics Architecture (SN-GCLA)<img width="612" height="1068" alt="1732700939951" src="https://github.com/user-attachments/assets/6064533f-d4de-4119-b0f7-5d09454dcbf5" />
+* **📊 Organization:** Shamsun Nahar Global Computational Linguistics Architecture (SN-GCLA)
 
 * **🌍 Location:** Dhaka, Bangladesh
 * **📧 Official Communications:** shoronhasan74@gmail.com
 * **📱 Direct Line:** +8801711759373
+
+
+<img width="612" height="1068" alt="1732700939951" src="https://github.com/user-attachments/assets/6064533f-d4de-4119-b0f7-5d09454dcbf5" />
