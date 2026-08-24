@@ -41,14 +41,17 @@ You can access, reference, and verify the preprints, immutable datasets, and aca
 * **Zenodo Open-Science DOI:** [https://doi.org/10.528l/zenodo.21435424](/url?sa=i&source=web&rct=j&url=https://doi.org/10.528l/zenodo.21435424&ved=2ahUKEwijlPDEhJWWAxWCkeEIHVMkGrQQg5wRegYIAAgTEDc&opi=89978449&cd&psig=AOvVaw3vyz5639K35V1prKEW0GyA&ust=1786416056272000)
 * **SSRN (Social Science Research Network):** [View Research Papers & Legal Frameworks on SSRN](/url?sa=i&source=web&rct=j&url=https://papers.ssrn.com/&ved=2ahUKEwijlPDEhJWWAxWCkeEIHVMkGrQQg5wRegYIAAgTEDw&opi=89978449&cd&psig=AOvVaw3vyz5639K35V1prKEW0GyA&ust=1786416056272000)
 * **ResearchGate:** [Follow Technical Updates & Academic Discussions on ResearchGate](/url?sa=i&source=web&rct=j&url=https://www.researchgate.net/&ved=2ahUKEwijlPDEhJWWAxWCkeEIHVMkGrQQg5wRegYIAAgTEEE&opi=89978449&cd&psig=AOvVaw3vyz5639K35V1prKEW0GyA&ust=1786416056272000)
-* **Figshare:** [Explore Preliminary Methodology & Explanatory Framework Preprints on Figshare](/url?sa=i&source=web&rct=j&url=https://figshare.com/authors/Mahmudul_Hasan_Shoron/24323798&ved=2ahUKEwijlPDEhJWWAxWCkeEIHVMkGrQQg5wRegYIAAgTEEY&opi=89978449&cd&psig=AOvVaw3vyz5639K35V1prKEW0GyA&ust=1786416056272000)
+* 
 
-### 📄 Commercial Licensing & Exploitation
+### ## 📜 License
 
-This framework is distributed under a proprietary commercial framework managed by **SN-GCLA**. 
+This repository and its core modules are governed by the **Charity-Driven Commercial Software License (CDCSL)**. 
 
-* For full commercial terms, exploitation parameters, and enterprise service-level structures, please review the [Terms of Commercial License](/url?sa=i&source=web&rct=j&url=Terms_of_Commercial_License.md&ved=2ahUKEwijlPDEhJWWAxWCkeEIHVMkGrQQg5wRegYIAAgTEE8&opi=89978449&cd&psig=AOvVaw3vyz5639K35V1prKEW0GyA&ust=1786416056272000) file included in this repository.
-* Academic Lab Licenses (Category-D) are available for active computational linguistics and law-tech university cells at specialized institutional rates.
+* **For Education & Non-Profits:** 100% Free and unrestricted access for students, researchers, and non-profit grassroots initiatives (subject to the validation clauses outlined in the license document).
+* **For Commercial Entities:** Any commercial exploitation, integration, or corporate deployment requires a mandatory commercial license. 
+* **Humanitarian Impact:** Crucially, **95% of all gross commercial revenues** generated from this license are strictly and legally allocated to verified charities, elderly care, food security, and humanitarian welfare.
+
+For full legal terms and conditions, please refer to the license document in this repository.
 
 ### ✉️ Enterprise Support & Technical Briefings
 
