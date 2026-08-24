@@ -21,6 +21,7 @@ The engine consists of three decoupled, high-performance mathematical modules:
 Add to Core Modules Section:
 4. section4_matrix_simulation.py: Implements the Core Cryptographic Defense Engine as defined in Section 4.4. This module executes objective syntax validation loops to eliminate subjective overfitting.
 5. **hybrid_crypto_validator.py**: Combines industry-standard SHA-256 collision resistance with the Section 4 Modulo-9 Invariant Matrix Checksum Engine to create a hybrid defense-in-depth model against advanced data-tampering attacks.
+
 ### 📚 Global Academic Papers & Registries
 
 Our methodology, datasets, and mathematical parameters are peer-archived and index-tracked across leading global scientific registries under our core research publication: 
@@ -37,7 +38,7 @@ You can access, reference, and verify the preprints, immutable datasets, and aca
 * **Zenodo Open-Science DOI:** [https://doi.org/10.528l/zenodo.21435424](/url?sa=i&source=web&rct=j&url=https://doi.org/10.528l/zenodo.21435424&ved=2ahUKEwijlPDEhJWWAxWCkeEIHVMkGrQQg5wRegYIAAgTEDc&opi=89978449&cd&psig=AOvVaw3vyz5639K35V1prKEW0GyA&ust=1786416056272000)
 * **SSRN (Social Science Research Network):** [View Research Papers & Legal Frameworks on SSRN](/url?sa=i&source=web&rct=j&url=https://papers.ssrn.com/&ved=2ahUKEwijlPDEhJWWAxWCkeEIHVMkGrQQg5wRegYIAAgTEDw&opi=89978449&cd&psig=AOvVaw3vyz5639K35V1prKEW0GyA&ust=1786416056272000)
 * **ResearchGate:** [Follow Technical Updates & Academic Discussions on ResearchGate](/url?sa=i&source=web&rct=j&url=https://www.researchgate.net/&ved=2ahUKEwijlPDEhJWWAxWCkeEIHVMkGrQQg5wRegYIAAgTEEE&opi=89978449&cd&psig=AOvVaw3vyz5639K35V1prKEW0GyA&ust=1786416056272000)
-* 
+
 
 ### 📜 License
 
@@ -57,9 +58,8 @@ For licensing procurement, API sandbox access, or to schedule a 10-minute techni
   * **✅ International Member**, Amnesty International
   * **✅ Member**, American Bar Association (ID: 06417189)
   * **✅ Secretary of Student Affairs**, Central Law College, Dhaka, Bangladesh
-  * 
-* **📊 Organization:** Shamsun Nahar Global Computational Linguistics Architecture (SN-GCLA)
 
+* **📊 Organization:** Shamsun Nahar Global Computational Linguistics Architecture (SN-GCLA)
 * **🌍 Location:** Dhaka, Bangladesh
 * **📧 Official Communications:** shoronhasan74@gmail.com
 * **📱 Direct Line:** +8801711759373
