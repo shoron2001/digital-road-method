@@ -43,15 +43,14 @@ You can access, reference, and verify the preprints, immutable datasets, and aca
 ### 📜 License
 
 This repository and its core modules are governed by the **Charity-Driven Commercial Software License (CDCSL)**. 
-* **For Education & Non-Profits:** 100% Free and unrestricted access for students, researchers, and non-profit grassroots initiatives (subject to the validation clauses outlined in the license document).
-* **For Commercial Entities:** Any commercial exploitation, integration, or corporate deployment requires a mandatory commercial license. 
-* **Humanitarian Impact:** Crucially, **95% of all gross commercial revenues** generated from this license are strictly and legally allocated to verified charities, elderly care, food security, and humanitarian welfare.
+* 🎓 **For Education & Non-Profits:** 100% Free and unrestricted access for students, researchers, and non-profit grassroots initiatives (subject to the validation clauses outlined in the license document).
+* 💰 **For Commercial Entities:** Any commercial exploitation, integration, or corporate deployment requires a mandatory commercial license. 
+* ❤️ **Humanitarian Impact:** Crucially, **95% of all gross commercial revenues** generated from this license are strictly and legally allocated to verified charities, elderly care, food security, and humanitarian welfare.
 
 For full legal terms and conditions, please refer to the license document in this repository.
 
-### ✉️ Enterprise Support & Technical Briefings
 
-## 📰 Mainstream Media Coverage & Public Recognition
+## 📰 Mainstream Media Coverage & Public Recognition 🇧🇩
 
 Our independent research framework and architectural breakthrough ("The Digital Road Method") have been heavily featured and recognized across **9 major national, divisional, and local news platforms** in Bangladesh. These publications highlight our zero-funding, self-sustained model and the global registration of our preprints:
 
@@ -63,7 +62,9 @@ Our independent research framework and architectural breakthrough ("The Digital 
 * **📰 Ajker Paper:** *"Young Researcher Mahmudul Hasan Shoron on the Global Stage for Innovating a Mathematical Path"* (Digital Edition Feature — August 18, 2026)
 * **📰 Daily Crime BD 24:** *"Mathematical Pathfinder in Intellectual Innovation: Young Researcher Mahmudul Hasan Shoron"* (Online Portal Cover — August 17, 2026)
 
-*Note: The remaining mainstream media publications and full archival press materials are securely archived alongside our public preprint repositories (SSRN & Zenodo) and are available upon request for institutional compliance and licensing audits.*
+*📝 Note: The remaining mainstream media publications and full archival press materials are securely archived alongside our public preprint repositories (SSRN & Zenodo) and are available upon request for institutional compliance and licensing audits.*
+
+### ✉️ Enterprise Support & Technical Briefings
 
 For licensing procurement, API sandbox access, or to schedule a 10-minute technical demonstration with our core architecture cell, please contact: 
 
