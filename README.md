@@ -2,10 +2,6 @@
 
 ### Core Framework: The Digital Road Method
 
-[](/url?sa=i&source=web&rct=j&url=Terms_of_Commercial_License.md&ved=2ahUKEwijlPDEhJWWAxWCkeEIHVMkGrQQg5wRegYIAAgTEAU&opi=89978449&cd&psig=AOvVaw3vyz5639K35V1prKEW0GyA&ust=1786416056272000)
-[](/url?sa=i&source=web&rct=j&url=%23&ved=2ahUKEwijlPDEhJWWAxWCkeEIHVMkGrQQg5wRegYIAAgTEAY&opi=89978449&cd&psig=AOvVaw3vyz5639K35V1prKEW0GyA&ust=1786416056272000) 
-* **`section4_matrix_simulation.py`**: Automates the Stratified Empirical Evaluation Framework defined in Section 4.3. It runs a full-corpus matrix simulation across all 114 Surahs to verify the 100% deterministic Modulo-9 convergence rate and check for zero spatial drift.
-
 Welcome to the official repository of the **Shamsun Nahar Global Computational Linguistics Architecture (SN-GCLA)**. This repository hosts the production-ready Python modules for **The Digital Road Method**, an engineered data matrix framework designed for high-efficiency text data compression, syntactic structural reduction, and automated document validation using **Modulo-9 Reduction** algorithms. 
 
 ### 🚀 Commercial Utility & Enterprise Value
@@ -43,10 +39,9 @@ You can access, reference, and verify the preprints, immutable datasets, and aca
 * **ResearchGate:** [Follow Technical Updates & Academic Discussions on ResearchGate](/url?sa=i&source=web&rct=j&url=https://www.researchgate.net/&ved=2ahUKEwijlPDEhJWWAxWCkeEIHVMkGrQQg5wRegYIAAgTEEE&opi=89978449&cd&psig=AOvVaw3vyz5639K35V1prKEW0GyA&ust=1786416056272000)
 * 
 
-### ## 📜 License
+### 📜 License
 
 This repository and its core modules are governed by the **Charity-Driven Commercial Software License (CDCSL)**. 
-
 * **For Education & Non-Profits:** 100% Free and unrestricted access for students, researchers, and non-profit grassroots initiatives (subject to the validation clauses outlined in the license document).
 * **For Commercial Entities:** Any commercial exploitation, integration, or corporate deployment requires a mandatory commercial license. 
 * **Humanitarian Impact:** Crucially, **95% of all gross commercial revenues** generated from this license are strictly and legally allocated to verified charities, elderly care, food security, and humanitarian welfare.
@@ -57,12 +52,13 @@ For full legal terms and conditions, please refer to the license document in thi
 
 For licensing procurement, API sandbox access, or to schedule a 10-minute technical demonstration with our core architecture cell, please contact: 
 
-* **Principal Researcher:** Mahmudul Hasan Shoron 
+* **🇧🇩 Principal Researcher:** Mahmudul Hasan Shoron 
 
   * **International Member**, Amnesty International
   * **Member**, American Bar Association (ID: 06417189)
-  * **Secretary of Student Affairs**, Central Law College, Dhaka, Bangladesh
-* **Organization:** Shamsun Nahar Global Computational Linguistics Architecture (SN-GCLA)
+  * **⚖️ Secretary of Student Affairs**, Central Law College, Dhaka, Bangladesh
+  * 
+* **📊 Organization:** Shamsun Nahar Global Computational Linguistics Architecture (SN-GCLA)
 * **Location:** Dhaka, Bangladesh
-* **Official Communications:** shoronhasan74@gmail.com
-* **Direct Line:** +8801711759373
+* **📧 Official Communications:** shoronhasan74@gmail.com
+* **📱 Direct Line:** +8801711759373
