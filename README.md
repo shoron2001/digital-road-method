@@ -56,9 +56,9 @@ For licensing procurement, API sandbox access, or to schedule a 10-minute techni
 
   * **International Member**, Amnesty International
   * **Member**, American Bar Association (ID: 06417189)
-  * **⚖️ Secretary of Student Affairs**, Central Law College, Dhaka, Bangladesh
+  * **Secretary of Student Affairs**, Central Law College, Dhaka, Bangladesh
   * 
 * **📊 Organization:** Shamsun Nahar Global Computational Linguistics Architecture (SN-GCLA)
-* **Location:** Dhaka, Bangladesh
+* **🌍 Location:** Dhaka, Bangladesh
 * **📧 Official Communications:** shoronhasan74@gmail.com
 * **📱 Direct Line:** +8801711759373
