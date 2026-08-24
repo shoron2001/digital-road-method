@@ -51,6 +51,20 @@ For full legal terms and conditions, please refer to the license document in thi
 
 ### ✉️ Enterprise Support & Technical Briefings
 
+## 📰 Mainstream Media Coverage & Public Recognition
+
+Our independent research framework and architectural breakthrough ("The Digital Road Method") have been heavily featured and recognized across **9 major national, divisional, and local news platforms** in Bangladesh. These publications highlight our zero-funding, self-sustained model and the global registration of our preprints:
+
+* **📰 The World Post 24:** *"Mathematical Pathfinder in Intellectual Innovation: Young Researcher Mahmudul Hasan Shoron"* (Featured Full-Page Print & Digital — August 18, 2026)
+* **📰 Daily Dhaka Protidin:** *"Young Bangladeshi Researcher Mahmudul Hasan Shoron Shows a New Mathematical Pathway in Innovation"* (National Print Edition Feature)
+* **📰 Daily Swajon:** *"Surprise from Fulbaria's Researcher Shoron on the International Stage: The World Receives a Unique and New Research Method"* (Featured Headline — August 18, 2026)
+* **📰 Daily Brahmaputra Express:** *"Young Researcher Shoron from Fulbaria in the International Arena of Talent and Innovation"* (Print Feature — August 19, 2026)
+* **📰 TechZoom.TV:** *"A New Research Method by a Bangladeshi Researcher Without Any Institutional Grants"* (Leading Tech Portal Feature — August 15, 2026)
+* **📰 Ajker Paper:** *"Young Researcher Mahmudul Hasan Shoron on the Global Stage for Innovating a Mathematical Path"* (Digital Edition Feature — August 18, 2026)
+* **📰 Daily Crime BD 24:** *"Mathematical Pathfinder in Intellectual Innovation: Young Researcher Mahmudul Hasan Shoron"* (Online Portal Cover — August 17, 2026)
+
+*Note: The remaining mainstream media publications and full archival press materials are securely archived alongside our public preprint repositories (SSRN & Zenodo) and are available upon request for institutional compliance and licensing audits.*
+
 For licensing procurement, API sandbox access, or to schedule a 10-minute technical demonstration with our core architecture cell, please contact: 
 
 * **🇧🇩 Principal Researcher:** Mahmudul Hasan Shoron 
