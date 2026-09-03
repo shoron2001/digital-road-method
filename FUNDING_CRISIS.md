@@ -33,19 +33,30 @@ Thank you for standing by independent science, honoring the working class, and p
 
 ### ❤️ Direct Emergency Support (International & Local Bank Transfer)
 
-While my official GitHub Sponsors application is under active queue review, you can directly prevent this research from halting and support my family's urgent survival by transferring directly to my bank account: 
 
-• Account Holder Name: Mahmudul  Hasan Shoron 
+While my official GitHub Sponsors application is under active queue review, you can directly prevent this research from halting and support my family's urgent survival by transferring funds through either of the options below:
 
-• Bank Name: Islami Bank Bangladesh PLC
+#### 💳 Option 1: International / Crypto (Binance Pay)
+* **Binance UID:** `1273303423`
+* **Preferred Crypto:** USDT, BTC, ETH (Networks: TRC20, BEP20)
+* **Scan to Donate via Binance Pay:**
+  
 
-• Branch: Fulbaria Branch, Mymensingh,Bangladesh
 
-• Account Number: 20503030202118814
+<img width="900" height="1500" alt="binance-1788459548166 (1)" src="https://github.com/user-attachments/assets/6570e258-68db-403d-a423-811b34d31646" />
 
-• Routing Number (9-Digit): 125611029
 
-• SWIFT Code (International):  IBBLBDDHXXX 
+
+
+#### 🏦 Option 2: Local & International Bank Transfer (Bangladesh)
+* **Account Holder Name:** Mahmudul Hasan Shoron
+* **Bank Name:** Islami Bank Bangladesh PLC
+* **Account Number:** `20503030202118814`
+* **Branch:** Fulbaria Branch, Mymensingh, Bangladesh
+* **Routing Number (9-Digit):** `125611029`
+* **SWIFT Code (International):** `IBBLBDDHXXX`
+
+Your support, no matter the scale, directly ensures the protection of decentralized interdisciplinary science and provides a vital lifeline to an independent scientist navigating a profound familial emergency. Thank you.
 
 Your support, no matter the scale, directly ensures the protection of decentralized interdisciplinary science and provides a vital lifeline to an independent scientist navigating a profound familial emergency. Thank you.
 <img width="4160" height="1952" alt="IMG_20260610_101447" src="https://github.com/user-attachments/assets/370dded8-9d21-407b-93a1-0e7e1abe2c32" />
