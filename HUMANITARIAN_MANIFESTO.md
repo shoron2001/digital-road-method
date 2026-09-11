@@ -1,4 +1,4 @@
-## Charity-Driven Commercial Software License (CDCSL)
+HUMANITARIAN_MANIFESTO.md
 ## Version 1.0 — Dedicated to Global Humanitarian Welfare & Research Autonomy
 
 ## DEDICATION
