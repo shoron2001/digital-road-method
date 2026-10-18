@@ -40,14 +40,15 @@ You can access, reference, and verify the preprints, immutable datasets, and aca
 * **ResearchGate:** [Follow Technical Updates & Academic Discussions on ResearchGate](/url?sa=i&source=web&rct=j&url=https://www.researchgate.net/&ved=2ahUKEwijlPDEhJWWAxWCkeEIHVMkGrQQg5wRegYIAAgTEEE&opi=89978449&cd&psig=AOvVaw3vyz5639K35V1prKEW0GyA&ust=1786416056272000)
 
 
-### 📜 License
+## 🔗 License 🎫
 
-This repository and its core modules are governed by the **Charity-Driven Commercial Software License (CDCSL)**. 
+This repository and its core modules are governed by **The Humanitarian Commerce License (HCL)**.
+
 * 🎓 **For Education & Non-Profits:** 100% Free and unrestricted access for students, researchers, and non-profit grassroots initiatives (subject to the validation clauses outlined in the license document).
-* 💰 **For Commercial Entities:** Any commercial exploitation, integration, or corporate deployment requires a mandatory commercial license. 
-* ❤️ **Humanitarian Impact:** Crucially, **95% of all gross commercial revenues** generated from this license are strictly and legally allocated to verified charities, elderly care, food security, and humanitarian welfare.
+* 💼 **For Commercial Entities:** Any commercial exploitation, integration, or corporate deployment requires a mandatory commercial license.
+* ❤️ **Humanitarian Impact:** Crucially, 100% of the total license value is structured to eliminate confusion—enforcing a 30% upfront commercial discount for student-compliance, while the remaining 70% of collected revenue systematically channels 60% permanently to verified charities (disabled welfare, elderly care, food security, and animal rescue), 5% to community support, and 5% to the author's independent R&D fund.
 
-For full legal terms and conditions, please refer to the license document in this repository.
+For full legal terms, contractual conditions, and prescribed statutory penalties, please refer to **The Humanitarian Commerce License (HCL)** document in this repository.
 
 
 ## 📰 Mainstream Media Coverage & Public Recognition 🇧🇩
